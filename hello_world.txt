@@ -1,2 +1,5 @@
-Dodaję jakiś tekst
-Witaj świecie
+EN
+Hello world!
+
+PL
+Witaj, świecie
